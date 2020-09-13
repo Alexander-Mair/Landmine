@@ -1,0 +1,18 @@
+You escaped from the PoW camp and safety is just
+a stones-throw away... Right accross this deadly
+minefield!
+
+Walk accross the minefield using four direction
+commands:
+north, or n
+south, or s
+west, or w
+east, or e
+
+You can detonate mines which might be ahead of you with
+the command "detonate" followed by your chosen direction. For
+example you can detonate a mine to your north with the command
+"detonate north/n" or "det north/n". Be careful though, you only have
+a limited number of detonators!
+
+Try not to die. 
